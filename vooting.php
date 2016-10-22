@@ -8,7 +8,7 @@
 <?php 
 $host = "localhost";
 $user ="root";
-$pwd ="raka123";
+$pwd ="";
 $db = "book";
 
 
